@@ -1,0 +1,227 @@
+{
+  "project_info": {
+    "project_number": "625714359836",
+    "firebase_url": "https://y-ral-gaming.firebaseio.com",
+    "project_id": "y-ral-gaming",
+    "storage_bucket": "y-ral-gaming.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625714359836:android:bd0ceea9ec45315a8c39d9",
+        "android_client_info": {
+          "package_name": "com.example.phoneotpvirel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625714359836-60vlidi2vb91uaib71bd3k632br8h8ea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phoneotpvirel",
+            "certificate_hash": "f4f38f7358ee0194532ac171f44d86ab67036d66"
+          }
+        },
+        {
+          "client_id": "625714359836-pj9ke086jpo6gmndcbhdavt95j9b6ff9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3jubavelC1WjCU7--UNGKcBwAizjslNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625714359836-pj9ke086jpo6gmndcbhdavt95j9b6ff9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "625714359836-191isr2b2f6napbqlhps7e41h7iib3b2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.example.Testing-Demo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625714359836:android:edde2af439df25bf8c39d9",
+        "android_client_info": {
+          "package_name": "com.example.untitled3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625714359836-pj9ke086jpo6gmndcbhdavt95j9b6ff9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3jubavelC1WjCU7--UNGKcBwAizjslNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625714359836-pj9ke086jpo6gmndcbhdavt95j9b6ff9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "625714359836-191isr2b2f6napbqlhps7e41h7iib3b2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.example.Testing-Demo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625714359836:android:c5aede752cb71d5e8c39d9",
+        "android_client_info": {
+          "package_name": "com.intelj.y_ral_gaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625714359836-24lil12ual8044i2ploq9c0d6g7lvjma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.intelj.y_ral_gaming",
+            "certificate_hash": "111ff410e6199243e2149ec0325b039d94ec92a6"
+          }
+        },
+        {
+          "client_id": "625714359836-6sv6tbfc3aqprgrndlhvvggilhmun17s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.intelj.y_ral_gaming",
+            "certificate_hash": "ae5ecc1583fdc579b8c5d1a481e5cf459bf5eb5c"
+          }
+        },
+        {
+          "client_id": "625714359836-a4iqtv2eu5kk56mpt5jfa8ap0hat4b1b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.intelj.y_ral_gaming",
+            "certificate_hash": "8ad36ed37650500906a506eed69eb0a44aa992ff"
+          }
+        },
+        {
+          "client_id": "625714359836-c5ald7on3g43c6lmvfm56or5luu07dd1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.intelj.y_ral_gaming",
+            "certificate_hash": "077289ed84f0cb64d83a13d6a77806d103d4dd3b"
+          }
+        },
+        {
+          "client_id": "625714359836-j9sb22naafo1ct6e18aehocvmpco1sbp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.intelj.y_ral_gaming",
+            "certificate_hash": "9c30322385f3dae7bbd2c547eeec53a6b73bccee"
+          }
+        },
+        {
+          "client_id": "625714359836-ma7am7bsu7e3r2gj83clq9i28og0b4gj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.intelj.y_ral_gaming",
+            "certificate_hash": "f4f38f7358ee0194532ac171f44d86ab67036d66"
+          }
+        },
+        {
+          "client_id": "625714359836-pj9ke086jpo6gmndcbhdavt95j9b6ff9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3jubavelC1WjCU7--UNGKcBwAizjslNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625714359836-pj9ke086jpo6gmndcbhdavt95j9b6ff9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "625714359836-191isr2b2f6napbqlhps7e41h7iib3b2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.example.Testing-Demo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625714359836:android:ee9c97c5dba563c58c39d9",
+        "android_client_info": {
+          "package_name": "in.online.scrims"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625714359836-6v6b1em54nto9fov0ui38nf4ei84dt0u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.online.scrims",
+            "certificate_hash": "077289ed84f0cb64d83a13d6a77806d103d4dd3b"
+          }
+        },
+        {
+          "client_id": "625714359836-ple8ojsl92jgsp3lhtco8o3hf0m0s995.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.online.scrims",
+            "certificate_hash": "111ff410e6199243e2149ec0325b039d94ec92a6"
+          }
+        },
+        {
+          "client_id": "625714359836-pj9ke086jpo6gmndcbhdavt95j9b6ff9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3jubavelC1WjCU7--UNGKcBwAizjslNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625714359836-pj9ke086jpo6gmndcbhdavt95j9b6ff9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "625714359836-191isr2b2f6napbqlhps7e41h7iib3b2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.example.Testing-Demo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

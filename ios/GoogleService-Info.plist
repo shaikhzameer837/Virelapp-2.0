@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>625714359836-mopk0prdnajld1rj595f6cjcfgrm9q9j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.625714359836-mopk0prdnajld1rj595f6cjcfgrm9q9j</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>625714359836-24lil12ual8044i2ploq9c0d6g7lvjma.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB01pjPSqmdU1Sl5Bx6TvfAg3nd1FrmsBw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>625714359836</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.yral.virelapp</string>
+	<key>PROJECT_ID</key>
+	<string>y-ral-gaming</string>
+	<key>STORAGE_BUCKET</key>
+	<string>y-ral-gaming.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:625714359836:ios:1b23ded1f91d21ed8c39d9</string>
+	<key>DATABASE_URL</key>
+	<string>https://y-ral-gaming.firebaseio.com</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>Need to access Gallery for Profile photo</string>
+</dict>
+</plist>
